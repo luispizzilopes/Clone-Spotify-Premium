@@ -20,10 +20,10 @@ body{
 
 .logo{
     margin-top: 20px;
-    width: 140px;
+    width: 135px;
     height: 40px;
     align-items: center;
-    margin-left: 1vw;
+    margin-left: 2vw;
 }
 
 .opcoes{
@@ -56,7 +56,7 @@ body{
 }
 
 .opcoes-lista li:hover{
-    color: #169b45;
+    color: rgb(30, 215, 96);
 }
 
 .menu-mobile{
@@ -102,7 +102,7 @@ body{
 .botoes-menu div{
     background-color: #191414;
     border-radius: 500px;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     padding-block: 14px;
     padding-inline: 35px;
@@ -120,7 +120,7 @@ body{
 }
 
 #botao-transparente:hover{
-    background-color: #191414;
+    background-color: rgb(30, 115, 199);
     border: 2px solid white;
 }
 
