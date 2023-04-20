@@ -8,7 +8,7 @@ Clone da página Premium do Spotify desenvolvido utilizando HTML e CSS
 - HTML
 - CSS
 
-# Imagem do projeto
+# Imagens do projeto
 
 # Desktop
 
